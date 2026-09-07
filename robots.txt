@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://webwiziaking.vercel.app/sitemap.xml
